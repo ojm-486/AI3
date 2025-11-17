@@ -92,6 +92,7 @@ labels[1]: {
        "images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F023%2F2024%2F08%2F18%2F0003853171_001_20240818185109003.jpg&type=sc960_832"],
        "videos": ["https://www.youtube.com/shorts/QFweaYL0qT4"]
      },
+}
 # ======================
 # 유틸
 # ======================
